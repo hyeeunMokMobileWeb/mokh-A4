@@ -1,0 +1,20 @@
+{
+  "dinner":
+	[
+		{
+      "food": "Indian Curry",
+      "price": 18,
+      "calories": 650
+  },
+    {
+      "food": "Pad Thai",
+      "price": 14,
+      "calories": 560
+    },
+    {
+      "food": "Veggie Pizza",
+      "price": 20,
+      "calories": 740
+    }
+  ]
+}

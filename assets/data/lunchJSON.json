@@ -1,0 +1,20 @@
+{
+  "lunch":
+	[
+		{
+      "food": "Bibimbap",
+      "price": 15,
+      "calories": 640
+  },
+    {
+      "food": "Veggie Burger",
+      "price": 10,
+      "calories": 479
+    },
+    {
+      "food": "Veggie Fried Rice",
+      "price": 13,
+      "calories": 590
+    }
+  ]
+}

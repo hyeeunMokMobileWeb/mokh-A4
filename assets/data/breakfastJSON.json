@@ -1,0 +1,20 @@
+{
+  "breakfast":
+	[
+		{
+      "food": "Egg Sandwich",
+      "price": 7,
+      "calories": 530
+  },
+    {
+      "food": "Coffee & Muffin",
+      "price": 5,
+      "calories": 380
+    },
+    {
+      "food": "Continental Breakfast",
+      "price": 9,
+      "calories": 450
+    }
+  ]
+}
